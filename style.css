@@ -1,0 +1,19 @@
+body{
+    background-color:#eec936;
+}
+.search-field{
+    margin: 40px auto;
+    width: 60%;
+    text-align: center;
+    
+}
+.search-btn{
+    color: white;
+    background-color: red;
+    
+}
+#show-display-result{
+    display: none ;
+    width: 350px;
+    
+  }
